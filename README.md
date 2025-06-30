@@ -1,6 +1,6 @@
 # 🚧 Road Accident Data Analytics Dashboard
 
-![Road Accident Dashboard](./road.png)
+![Road Accident Dashboard](/road.png)
 
 ## 📌 Project Overview
 
